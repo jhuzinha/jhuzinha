@@ -14,5 +14,9 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
-
 </details>
+
+
+<div>
+  ![BADGE JAVA SCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ </div>
