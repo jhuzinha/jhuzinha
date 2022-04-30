@@ -1,5 +1,8 @@
-<img scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
-<img scr="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E " />
+### Programming is my passion
+
+Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a computer technician graduated from the Centro de Ensino Médio Integrado à Educação Profissional e Técnica do Gama (CEMI). 
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
