@@ -24,8 +24,8 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhuzinha_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/jhuzinha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhuzinhaicons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
