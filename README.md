@@ -3,11 +3,15 @@
 Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a computer technician graduated from the Centro de Ensino Médio Integrado à Educação Profissional e Técnica do Gama (CEMI). 
 
 
+<a href="https://www.linkedin.com/in/jhuliana-santos-6b6b2b201/">
+  <img align="left" alt="Jhuliana's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br></br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Jhuzinha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhuzinha" />
-
 </details>
 
 
