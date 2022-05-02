@@ -4,18 +4,19 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 
 
 <a href="https://www.linkedin.com/in/jhuliana-santos-6b6b2b201/">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br></br>
+<div align="center" >
+  <summary>:zap: GitHub Stats</summary>
+  <img alt="Jhuzinha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhuzinha" />
 
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="Jhuzinha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhuzinha" />
+  <br></br>
 
-<br></br>
-
-<summary>:zap: Most Used Languages</summary>
-<img align="right" alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
+  <summary>:zap: Most Used Languages</summary>
+  <img alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
+</div>
 
 #My tools
 
