@@ -9,13 +9,13 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 
 <br></br>
 <div align="center" >
-  <summary> GitHub Stats</summary>
+  GitHub Stats
   <img alt="Jhuzinha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhuzinha" />
-  <summary> Most Used Languages</summary>
+  Most Used Languages
   <img alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
 </div>
 
-# My tools
+##### My tools
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-# I'm interested in learning
+##### I'm interested in learning
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
