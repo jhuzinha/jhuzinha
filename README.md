@@ -4,7 +4,7 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 
 
 <a href="https://www.linkedin.com/in/jhuliana-santos-6b6b2b201/">
-  <img align="left" alt="Jhuliana's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
 <br></br>
@@ -15,9 +15,21 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
 <br></br>
 
 <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
+<img align="right" alt="Jhuzinha's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuzinha" />
+
+#My tools
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+#I'm interested in learning
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- <div>
    <img alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -25,5 +37,5 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
    <img alt="CSS3" src=" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img alt="NODE JS" src=" https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  />
    <img alt="PYTHON" src=" https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</div>
- -->
+</div> -->
+
