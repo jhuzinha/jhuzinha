@@ -7,6 +7,7 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br></br>
 ##### My tools and languages
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
