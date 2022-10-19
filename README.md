@@ -3,7 +3,7 @@
 Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha**. I'm a computer technician graduated from the Centro de Ensino Médio Integrado à Educação Profissional e Técnica do Gama (CEMI). I'm currently a Full Stack student at Driven and I'm studying Computing at the University of Brasília.
 
 
-<a href="https://www.linkedin.com/in/jhuliana-santos-6b6b2b201/">
+<a href="https://www.linkedin.com/in/jhuzinha/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
