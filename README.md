@@ -5,7 +5,7 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha** :smile
 - :books: I'm currently a Full Stack student at Driven and I'm studying Computing at the University of Brasília. <br>
 - :dart: My focus is to become a Senior Full Stack Developer. <br>
 - :video_game: In my free time I like to play video game. <br>
-- :envelope: **Contact me:** jhulianasantosdev@gmail.com <br>
+- :envelope: **Contact me:** jholeanasantos@gmail.com <br>
 <br>
 <a href="https://www.linkedin.com/in/jhuzinha/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
