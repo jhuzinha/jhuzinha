@@ -8,9 +8,8 @@ Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha** :smile
 - :envelope: **Contact me:** jholeanasantos@gmail.com <br>
 <br>
 <a href="https://www.linkedin.com/in/jhuzinha/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jhuzinha LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br></br>
 ##### My tools and languages
 
