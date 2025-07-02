@@ -2,7 +2,7 @@
 
 Helloooo, my name is Jhuliana but you can call me **Jhu** or **Jhuzinha** :smile:.  <br>
 - :computer: I'm a computer technician graduated from the Centro de Ensino Médio Integrado à Educação Profissional e Técnica do Gama (CEMI).  <br>
-- :books: I'm currently a Full Stack student at Driven and I'm studying Computing at the University of Brasília. <br>
+- :books: I'm Full Stack development and I'm studying Computing at the University of Brasília. <br>
 - :dart: My focus is to become a Senior Full Stack Developer. <br>
 - :video_game: In my free time I like to play video game. <br>
 - :envelope: **Contact me:** jholeanasantos@gmail.com <br>
